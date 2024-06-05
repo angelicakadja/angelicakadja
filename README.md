@@ -1,40 +1,50 @@
-<div align="center">
-  
-## _Olá!👋🏽 - Sou a Angélica Kadja, muito prazer!_  🤝 🙋🏽‍♀️
+<picture>
+  <img align="right" media="(prefers-color-scheme: dark)" height="280" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/71272830-29b9-4f3a-9958-d0c2fc88a799">
+  <img align="right" media="(prefers-color-scheme: light)" height="280" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/ba51ee26-fac7-408d-b154-8f48d3047cbd">
+</picture>
 
-<sub>
-  
-<h3 align="left">
+<h1>
+     <img align="center" alt="Logo Flaticon" width="36px" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/b8cfbaa8-3265-4181-986c-5517962ed5af"></a>
+    <span>Angélica Kadja</span>
+</h1>
+ 
+<h4 align="left">
   
 - 🎓 Tenho formação superior completa em Administração de Empresas pela UFRRJ (Univ. Fed. Rural do Rio de Janeiro).
-- ☛ Sou Analista Financeira com mais de 12 anos de expertise em empresas de _Tecnologia, Varejo, Construção Civil, Imobiliário e Serviços_.
-- 
+- ☛ Analista Financeira com mais de 12 anos de expertise em empresas de _Tecnologia, Varejo, Construção Civil, Imobiliário e Serviços_.
+- ❤️ Apaixonada por animais, cinema e tecnologia. </h4>
+</sub>
+
+<h4 align="left">
+
 - 👩🏽‍💻 Em transição de carreira para área de tecnologia, optando por começar na área de programação pelo Bootcamp Backend com Java.
-- ✔ Minhas principais soft skills são: _observadora e organizada_.
-- 🌐 Tenho um blogger pessoal para descrever pensamentos, experiências e ideias na área de TI e empresa como um todo.
-- 
-- 🧠 Sempre acreditei que meu sonho e inspiração viriam de passar os dias atrás de um computador recebendo demandas, desempenhando as atividades da melhor forma possível, sendo prática e cheia de metodismos, mas, o que me inspira de verdade é o novo com desafios.
-- 💥A centelha pela área de tecnologia aconteceu quando comecei a analisar métodos de desenvolvimento de atividades e processos, me tornei uma Expert em Melhoria de Processos e automatização de atividades de diversos tipos de setores.
-- 👩🏽‍🏫 Anseio aprender mais e algo diferente todos os dias, buscando sempre evoluir e ampliar meus conhecimentos nas ferramentas de TI com enfase atualmente SQL e Python. </h3>
+- ✔ Minhas principais soft skills são: _observadora e organizada_. </h4>
+</sub>
+
+<h4 align="left">
+
+- 💥A centelha pela área de tecnologia aconteceu quando comecei a analisar métodos de desenvolvimento de atividades e melhoria de processos. Me tornei Expert em Melhoria de Processos e automatização de atividades de diversos tipos de setores.
+- 🧠 Anseio aprender mais e algo diferente todos os dias.
+- 🌐 Atualmente com enfase nas ferramentas de TI como SQL e Python. </h4>
 </sub>
 
 __________________________________________________________________________________________________________________
 
 <sub>
-<h3 align="left"> - 🔗 Links úteis: </h3>
+<h2 align="left"> - 🔗 Conecte-se comigo em: </h2>
 </sub>
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sintesenuaecrua.blogspot.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/adm-angelicakadja)
 
 <sub>
-<h3 align="left"> - 🚀 Bootcamps -🎓 Formação em andamento: </h3>
+<h2 align="left"> - 🚀 Bootcamps -🎓 Formação em andamento: </h2>
 </sub>
 
 - [x] [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70"></a>]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024))
 
 <sub>
-<h3 align="left"> - ⚡ Linguagens de Programação em estudo: </h3>
+<h2 align="left"> - ⚡ Linguagens de Programação em estudo: </h2>
 </sub>
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=white) 
@@ -42,7 +52,7 @@ ________________________________________________________________________________
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <sub>
-<h3 align="left"> - 🚀 Habilidades: </h3>
+<h2 align="left"> - 🚀 Habilidades: </h2>
 </sub>
 
 > #### Sistemas Oeracionais:
@@ -61,9 +71,25 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________
 
+<div align=center>
+  
 ![Kadja GitHub stats](https://github-readme-stats.vercel.app/api?username=angelicakadja\&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058)
 
+</div>
+
+<div align=center>
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
+
+</div>
+
+<div align=center>
 __________________________________________________________________________________________________________________
 
+</div>
+
+<div align=center>
+  
 _"O mais competente não discute, domina a sua ciência e cala-se"_. Voltaire.
+
+</div>
