@@ -1,6 +1,5 @@
 <picture>
-  <img align="right" media="(prefers-color-scheme: dark)" height="280" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/71272830-29b9-4f3a-9958-d0c2fc88a799">
-  <img align="right" media="(prefers-color-scheme: light)" height="280" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/ba51ee26-fac7-408d-b154-8f48d3047cbd">
+  <img align="right" media="(prefers-color-scheme: dark)" height="400" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/71272830-29b9-4f3a-9958-d0c2fc88a799">
 </picture>
 
 <h1>
