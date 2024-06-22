@@ -46,9 +46,9 @@ ________________________________________________________________________________
 <h2 align="left"> - ⚡ Linguagens de Programação em estudo: </h2>
 </sub>
 
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <sub>
 <h2 align="left"> - 🚀 Habilidades: </h2>
@@ -57,6 +57,10 @@ ________________________________________________________________________________
 > #### Sistemas Oeracionais:
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+> #### Ferramentas:
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 
 > #### Banco de Dados:
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
@@ -72,7 +76,7 @@ ________________________________________________________________________________
 
 <div align=center>
   
-![Kadja GitHub stats](https://github-readme-stats.vercel.app/api?username=angelicakadja\&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058)
+![Kadja GitHub stats](https://github-readme-stats.vercel.app/api?username=angelicakadja\&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicakadja&layout=compact&theme=radical&border_color=2e4058)
 
 </div>
 
