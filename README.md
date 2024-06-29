@@ -40,7 +40,8 @@ ________________________________________________________________________________
 <h2 align="left"> - 🚀 Bootcamps -🎓 Formação em andamento: </h2>
 </sub>
 
-- [x] [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70"></a>]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024))
+- [x] [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70"></a>]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)) [<img src="https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b" width="70"></a>](https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b)
+
 
 <sub>
 <h2 align="left"> - ⚡ Linguagens de Programação em estudo: </h2>
