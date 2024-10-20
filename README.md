@@ -1,33 +1,34 @@
-<picture>
+<h1>
+     <img align="center" alt="Logo Flaticon" width="36px" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/b8cfbaa8-3265-4181-986c-5517962ed5af"></a>
+    <span>Olá, sou a Angélica Kadja!</span>
+
+  <picture>
   <img align="right" media="(prefers-color-scheme: dark)" height="400" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/71272830-29b9-4f3a-9958-d0c2fc88a799">
 </picture>
 
-<h1>
-     <img align="center" alt="Logo Flaticon" width="36px" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/b8cfbaa8-3265-4181-986c-5517962ed5af"></a>
-    <span>Angélica Kadja</span>
 </h1>
- 
-<h4 align="left">
+
+<h4 align="justify">
   
 - 🎓 Tenho formação superior completa em Administração de Empresas pela UFRRJ (Univ. Fed. Rural do Rio de Janeiro).
 - ☛ Analista Financeira com mais de 12 anos de expertise em empresas de _Tecnologia, Varejo, Construção Civil, Imobiliário e Serviços_.
 - ❤️ Apaixonada por animais, cinema e tecnologia. </h4>
 </sub>
 
-<h4 align="left">
+<h4 align="justify">
 
 - 👩🏽‍💻 Em transição de carreira para área de tecnologia, optando por começar na área de programação pelo Bootcamp Backend com Java.
 - ✔ Minhas principais soft skills são: _observadora e organizada_. </h4>
 </sub>
 
-<h4 align="left">
+<h4 align="justify">
 
 - 💥A centelha pela área de tecnologia aconteceu quando comecei a analisar métodos de desenvolvimento de atividades e melhoria de processos. Me tornei Expert em Melhoria de Processos e automatização de atividades de diversos tipos de setores.
 - 🧠 Anseio aprender mais e algo diferente todos os dias.
 - 🌐 Atualmente com enfase nas linguagens HTML5, CSS3 e JavaScript . </h4>
 </sub>
 
-__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
 <sub>
 <h2 align="left"> - 🔗 Conecte-se comigo em: </h2>
@@ -37,15 +38,23 @@ ________________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/adm-angelicakadja)
 
 <sub>
-<h2 align="left"> - 🚀 Bootcamps -🎓 Formação em andamento: </h2>
+<h2 align="left"> - 🚀 Primeiros Bootcamps Realizados: </h2>
 </sub>
 
-- [x] [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70"></a>]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)) [<img src="https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b" width="70"></a>](https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b)
+[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70"></a>]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)) [<img src="https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b" width="70"></a>](https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b)
+
+<sub>
+<h2 align="left"> - 🎓 Bootcamp em formação: </h2>
+</sub>
+
+- [x] <img width="60" src="https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4"></a>
+
 
 <sub>
 <h2 align="left"> - ⚡ Linguagens de Programação em aperfeiçoamento: </h2>
 </sub>
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
