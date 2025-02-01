@@ -45,9 +45,8 @@ ________________________________________________________________________________
 (https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024))
 [<img src="https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b" width="70" target="_blank"></a>]([https://web.dio.me/](https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b))
 [<img src="https://assets.dio.me/E5KMSxmK8QAcAO9SDazfzGNWHnaMzQE-Xi_V8lxXX9I/f:webp/h:120/q:80/L3RyYWNrcy8yYTNhMmQyYi03ZGU3LTQ1N2MtYjRkZi1kY2QzMjdlYWU5ZWIucG5n" width="70" target="_blank"></a>]([https://web.dio.me/](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4))
-[<img src="https://assets.dio.me/x84deVbyyXPy2Qv6Ug4uuQnB0tRIBOyfiPJQe9jKNrc/f:webp/h:120/q:80/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" width="70" target="_blank"></a>]([https://hermes.dio.me/certificates/D50WLGPK.pdf])
-[<img src="https://github.com/user-attachments/assets/d02d0f6e-5456-46d6-96f8-d6de60bae686" width="70" target="_blank"></a>]([https://sintesenuaecrua.blogspot.com/])
-
+[<img src="https://github.com/user-attachments/assets/8e66ef04-165a-4608-b904-55c852a7c0d5" width="70" target="_blank"></a>]([https://hermes.dio.me/certificates/D50WLGPK.pdf](https://hermes.dio.me/certificates/D50WLGPK.pdf))
+[<img src="https://github.com/user-attachments/assets/9f40dff6-10e5-4b33-bb7c-52b7ddeddf2b" width="70" target="_blank"></a>]([https://hermes.dio.me/certificates/2GXOWDRU.pdf](https://hermes.dio.me/certificates/2GXOWDRU.pdf))
 
 [//]: # (&nbsp; criar espaço extra entre as imagens)
 
