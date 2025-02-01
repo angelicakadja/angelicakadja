@@ -47,6 +47,8 @@ ________________________________________________________________________________
 [<img src="https://assets.dio.me/x84deVbyyXPy2Qv6Ug4uuQnB0tRIBOyfiPJQe9jKNrc/f:webp/h:120/q:80/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" width="70"></a>](https://github.com/user-attachments/assets/41e9ee9d-876f-47e5-8a40-d8bd01ab946f)
 [<img src="https://github.com/user-attachments/assets/d02d0f6e-5456-46d6-96f8-d6de60bae686" width="70"></a>](https://github.com/user-attachments/assets/d02d0f6e-5456-46d6-96f8-d6de60bae686)
 
+[//]: # (&nbsp; criar espaço extra entre as imagens)
+
 <sub>
 <h2 align="left"> - 🎓 Bootcamp em formação: </h2>
 </sub>
