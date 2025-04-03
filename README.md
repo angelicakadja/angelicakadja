@@ -81,8 +81,8 @@ ________________________________________________________________________________
 <h2 align="left"> - ⚡ Banco de Dados: </h2>
 </sub>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-06688F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-035?style=for-the-badge&logo=postgresql)
 
 <sub>
 <h2 align="left"> - 🚀 Habilidades: </h2>
