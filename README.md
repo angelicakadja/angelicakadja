@@ -17,7 +17,7 @@
 
 <h4 align="justify">
 
-- 👩🏽‍💻 Em transição de carreira para área de tecnologia, optando por começar na área de programação pelo Bootcamp Backend com Java.
+- 👩🏽‍💻 Começando o estudo na área de TI pelo Bootcamp Backend com Java.
 - ✔ Minhas principais soft skills são: _observadora e organizada_. </h4>
 </sub>
 
