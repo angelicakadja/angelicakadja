@@ -41,7 +41,7 @@
 <h2 align="left"> - 🚀 Bootcamps Realizados: </h2>
 </sub>
 
-<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf" target="_blank">
+<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf" onclick="window.open(this.href, '_blank'); return false;">
   <img src="./src/img/front-end.png" width="70" alt="Logo Bootcamp Front-End" />
 </a> <a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf" target="_blank">
   <img src="./src/img/github.png" width="70" alt="Logo Bootcamp GitHub Copilot" />
@@ -49,7 +49,7 @@
   <img src="./src/img/ia-dados.png" width="70" alt="Logo Bootcamp IA Dados" />
 </a>
 
-[<img src="./src/img/back-end.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
+[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path] "https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024")
 [<img src="./src/img/java-ia.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
 [<img src="./src/img/python.png" width="70" target="_blank">](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4)
 
@@ -60,8 +60,8 @@
 </sub>
 
 - [x] <a href="https://assets.dio.me/bZPO8hy_I-c2cGjMeKuqj4mnFa4ZVF5eDAX6i3vsxdI/f:webp/q:80/w:480/L3RyYWNrcy8xMDIxYmVhMC0yMDk0LTRmODgtYTY2MC1mNzViZmQ0NDVjNDUucG5n" target="_blank">
-            <img src="./src/img/microsoft-copilot.png" width="70" alt="Logo Bootcamp Microsoft Copilot" />
-          </a>
+                <img src="./src/img/microsoft-copilot.png" width="70" alt="Logo Bootcamp Microsoft Copilot" />
+              </a>
 
 <sub>
 <h2 align="left"> - ⚡ Linguagens de Marcação e Estilo: </h2>
