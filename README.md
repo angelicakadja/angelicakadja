@@ -41,13 +41,17 @@
 <h2 align="left"> - 🚀 Bootcamps Realizados: </h2>
 </sub>
 
-[<img src="https://github.com/user-attachments/assets/8e66ef04-165a-4608-b904-55c852a7c0d5" width="70" target="_blank">](https://hermes.dio.me/certificates/D50WLGPK.pdf)
-[<img src="https://github.com/user-attachments/assets/9f40dff6-10e5-4b33-bb7c-52b7ddeddf2b" width="70" target="_blank">](https://hermes.dio.me/certificates/2GXOWDRU.pdf)
-[<img src="https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834" width="70" target="_blank">](https://hermes.dio.me/certificates/7RBBD6ZR.pdf)
+<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf" target="_blank">
+  <img src="./src/img/front-end.png" width="70" alt="Logo Bootcamp Front-End" />
+</a> <a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf" target="_blank">
+  <img src="./src/img/github.png" width="70" alt="Logo Bootcamp GitHub Copilot" />
+</a> <a href="https://hermes.dio.me/certificates/7RBBD6ZR.pdf" target="_blank">
+  <img src="./src/img/ia-dados.png" width="70" alt="Logo Bootcamp IA Dados" />
+</a>
 
-[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
-[<img src="https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
-[<img src="https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4" width="70" target="_blank">](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4)
+[<img src="./src/img/back-end.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
+[<img src="./src/img/java-ia.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
+[<img src="./src/img/python.png" width="70" target="_blank">](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4)
 
 [//]: # "  criar espaço extra entre as imagens"
 
@@ -55,7 +59,9 @@
 <h2 align="left"> - 🎓 Bootcamp em formação: </h2>
 </sub>
 
-- [x] [<img src="https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834" width="70"></a>](<[https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834](https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834)>)
+- [x] <a href="https://assets.dio.me/bZPO8hy_I-c2cGjMeKuqj4mnFa4ZVF5eDAX6i3vsxdI/f:webp/q:80/w:480/L3RyYWNrcy8xMDIxYmVhMC0yMDk0LTRmODgtYTY2MC1mNzViZmQ0NDVjNDUucG5n" target="_blank">
+        <img src="./src/img/microsoft-copilot.png" width="70" alt="Logo Bootcamp Microsoft Copilot" />
+      </a>
 
 <sub>
 <h2 align="left"> - ⚡ Linguagens de Marcação e Estilo: </h2>
