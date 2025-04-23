@@ -55,7 +55,8 @@
 <h2 align="left"> - 🎓 Bootcamp em formação: </h2>
 </sub>
 
-- [x] [<img src="https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834" width="70"></a>](<[https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834](https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834)>)
+[<img src="https://github.com/user-attachments/assets/a1bf3edd-4b78-4e57-a013-96f8ce8d9d31" width="70" target="_blank">](https://github.com/user-attachments/assets/a1bf3edd-4b78-4e57-a013-96f8ce8d9d31)
+
 
 <sub>
 <h2 align="left"> - ⚡ Linguagens de Marcação e Estilo: </h2>
