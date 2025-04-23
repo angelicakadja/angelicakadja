@@ -46,7 +46,9 @@
 </a>
 
 
-
+<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/8e66ef04-165a-4608-b904-55c852a7c0d5" width="70" alt="Logo do Bootcamp">
+</a>
 
 
 
