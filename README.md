@@ -41,8 +41,8 @@
 <h2 align="left"> - 🚀 Bootcamps Realizados: </h2>
 </sub>
 
-<a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9f40dff6-10e5-4b33-bb7c-52b7ddeddf2b" alt="Curso" width="70">
+<a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf">
+  <img src="https://github.com/user-attachments/assets/9f40dff6-10e5-4b33-bb7c-52b7ddeddf2b" alt="Curso" width="70" target="_blank">
 </a>
 
 [<img src="https://github.com/user-attachments/assets/8e66ef04-165a-4608-b904-55c852a7c0d5" width="70" target="_blank">]([https://hermes.dio.me/certificates/D50WLGPK.pdf])
