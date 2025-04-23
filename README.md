@@ -45,7 +45,7 @@
 [<img src="https://github.com/user-attachments/assets/9f40dff6-10e5-4b33-bb7c-52b7ddeddf2b" width="70" target="_blank">](https://hermes.dio.me/certificates/2GXOWDRU.pdf)
 [<img src="https://github.com/user-attachments/assets/359706c2-8a3b-4313-a27b-821e0e0c1834" width="70" target="_blank">](https://hermes.dio.me/certificates/7RBBD6ZR.pdf)
 
-[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
+[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path])
 [<img src="https://github.com/angelicakadja/angelicakadja/assets/156589643/142f1e3b-1bb8-4e6e-b430-69ed17f7d02b" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
 [<img src="https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4" width="70" target="_blank">](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4)
 
