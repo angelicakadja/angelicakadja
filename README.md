@@ -41,32 +41,30 @@
 <h2 align="left"> - 🎓 Bootcamps em formação: </h2>
 </sub>
 
-- [x] <a href="https://github.com/user-attachments/assets/f24da018-613e-4adb-b12f-9a4c3a09c56d" target="_blank">
-                <img src="https://github.com/user-attachments/assets/f24da018-613e-4adb-b12f-9a4c3a09c56d" width="80" alt="Logo Bootcamp Azure Databricks" /> </a>
+- [x] 
       <a href="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" target="_blank">
-                <img src="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" width="80" alt="Santander - Excel com Inteligência Artificial" /> </a>
+                <img src="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" width="100" alt="Santander - Excel com Inteligência Artificial" /> </a>
       <a href="[https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5](https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5)" target="_blank">
-                <img src="https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5" width="80" alt="Santander - Excel com Inteligência Artificial" /> </a>
+                <img src="https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5" width="100" alt="Santander - Excel com Inteligência Artificial" /> </a>
               
 <sub>
 <h2 align="left"> - 🚀 Bootcamps Realizados - 'Clique nos escudos abaixo para verificar as credenciais': </h2>
 </sub>
 
-<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="./src/img/front-end.png" width="70" alt="Logo Bootcamp Front-End" target="_blank"/>
-</a>
-<a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf" target="_blank">
-  <img src="./src/img/github.png" width="70" alt="Logo Bootcamp GitHub Copilot" target="_blank"/>
-</a>
-<a href="https://hermes.dio.me/certificates/7RBBD6ZR.pdf" >
-  <img src="./src/img/ia-dados.png" width="70" alt="Logo Bootcamp IA Dados" target="_blank"/>
-</a>
-<a href="https://hermes.dio.me/certificates/VCUHQUFT.pdf" target="_blank">
-  <img src="./src/img/microsoft-copilot.png" width="80" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/>
-</a>
-<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="75" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/>
-</a>
+<div display: inline-block;> 
+<a href="[https://hermes.dio.me/certificates/D50WLGPK.pdf](https://hermes.dio.me/certificates/D50WLGPK.pdf)" target="_blank">
+     <img src="./src/img/front-end.png" width="90" alt="Logo Bootcamp Front-End" /> </a> &nbsp;
+<a href="[https://hermes.dio.me/certificates/2GXOWDRU.pdf](https://hermes.dio.me/certificates/2GXOWDRU.pdf)" target="_blank">
+     <img src="./src/img/github.png" width="85" alt="Logo Bootcamp GitHub Copilot" /> </a> &nbsp;
+<a href="[https://hermes.dio.me/certificates/7RBBD6ZR.pdf](https://hermes.dio.me/certificates/7RBBD6ZR.pdf)" target="_blank">
+     <img src="./src/img/ia-dados.png" width="80" alt="Logo Bootcamp IA Dados" /> </a> &nbsp;
+<a href="[https://hermes.dio.me/certificates/VCUHQUFT.pdf](https://hermes.dio.me/certificates/VCUHQUFT.pdf)" target="_blank">
+     <img src="https://github.com/user-attachments/assets/1f7c8879-41cf-4d13-97f1-1b5746740a74" width="80" alt="Logo Bootcamp Microsoft Copilot Studio" target="_blank"/> </a> 
+<a href="[https://hermes.dio.me/certificates/YENUHHEQ.pdf](https://hermes.dio.me/certificates/YENUHHEQ.pdf)" target="_blank">
+     <img src="https://github.com/user-attachments/assets/2bac7d23-fc2d-417b-a9cf-27ab3fe81f75" width="100" alt="Logo Bootcamp Azure Databricks" /> </a>
+<a href="[https://hermes.dio.me/certificates/F0QN1LMW.pdf](https://hermes.dio.me/certificates/F0QN1LMW.pdf)" target="_blank">
+     <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/> </a>
+</div>
 
 
 <sub>
@@ -74,7 +72,7 @@
 </sub>
 
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path] "https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024")
-[<img src="./src/img/java-ia.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
+[<img src="./src/img/java-ia.png" width="100" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
 [<img src="./src/img/python.png" width="70" target="_blank">](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4)
 
 [//]: # "  criar espaço extra entre as imagens"
@@ -129,11 +127,14 @@
 
 ---
 
-<div align=center>
-  
-![Kadja GitHub stats](https://github-readme-stats.vercel.app/api?username=angelicakadja\&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicakadja&layout=compact&theme=radical&border_color=2e4058)
-
-</div>
+<table cellpadding="0" align=center>
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=angelicakadja&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicakadja&layout=compact&theme=radical&border_color=2e4058"/></td>
+  </tr>
+</table>
 
 <div align=center>
   
