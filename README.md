@@ -52,7 +52,7 @@
 <h2 align="left"> - 🚀 Bootcamps Realizados - 'Clique nos escudos abaixo para verificar as credenciais': </h2>
 </sub>
 
-<div display: inline-block;> 
+<div display: inline-block; width="90" target="_blank"> 
 <a href="[https://hermes.dio.me/certificates/D50WLGPK.pdf](https://hermes.dio.me/certificates/D50WLGPK.pdf)" target="_blank">
      <img src="./src/img/front-end.png" width="90" alt="Logo Bootcamp Front-End" /> </a> &nbsp;
 <a href="[https://hermes.dio.me/certificates/2GXOWDRU.pdf](https://hermes.dio.me/certificates/2GXOWDRU.pdf)" target="_blank">
@@ -67,7 +67,10 @@
      <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot"/> </a>
 </div>
 
-<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">![Cachorro x amor](https://github.com/user-attachments/assets/a464fb39-f93a-4d66-9e39-3c4fe2d50c88)</a>
+
+[![Markdown Logo](https://markdown-here.com/img/icon256.png)](https://www.markdownguide.org)
+<div display: inline-block; width="90" target="_blank">
+
 
 [//]: # "  criar espaço extra entre as imagens"
             
