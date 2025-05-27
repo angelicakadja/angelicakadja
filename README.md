@@ -67,9 +67,19 @@
      <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot"/> </a>
 </div>
 
-<div>
-<a href="[https://hermes.dio.me/certificates/D50WLGPK.pdf](https://hermes.dio.me/certificates/D50WLGPK.pdf)" target="_blank">
-<img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="500"/> </a>
+<div display: inline-block; width="90" target="_blank">
+<a href="[https://hermes.dio.me/certificates/D50WLGPK.pdf](https://hermes.dio.me/certificates/D50WLGPK.pdf)">
+<img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95"/> </a>
+</div>
+
+<div display: inline-block; width="90" target="_blank">
+<a href="(https://hermes.dio.me/certificates/D50WLGPK.pdf)">
+<img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95"/> </a>
+</div>
+
+<div display: inline-block; width="90" target="_blank">
+<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf">
+<img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95"/> </a>
 </div>
 
 
