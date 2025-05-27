@@ -49,7 +49,12 @@
   <img src="./src/img/ia-dados.png" width="70" alt="Logo Bootcamp IA Dados" target="_blank"/>
 </a> <a href="https://hermes.dio.me/certificates/VCUHQUFT.pdf" target="_blank">
   <img src="./src/img/microsoft-copilot.png" width="80" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/>
+</a> <a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="75" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/>
 </a>
+
+
+[<img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="70" target="_blank">]([https://hermes.dio.me/certificates/F0QN1LMW.pdf] "https://hermes.dio.me/certificates/F0QN1LMW.pdf")
 
 
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path] "https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024")
@@ -95,7 +100,7 @@
 <h2 align="left"> - 🚀 Habilidades: </h2>
 </sub>
 
-> #### Sistemas Oeracionais
+> #### Sistemas Operacionais
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
