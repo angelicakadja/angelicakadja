@@ -53,17 +53,17 @@
 </sub>
 
 <div display: inline-block; target="_blank"> 
-<a href="[https://hermes.dio.me/certificates/D50WLGPK.pdf](https://hermes.dio.me/certificates/D50WLGPK.pdf)">
+<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf">
      <img src="./src/img/front-end.png" width="90" alt="Logo Bootcamp Front-End"/> </a> &nbsp;
-<a href="[https://hermes.dio.me/certificates/2GXOWDRU.pdf](https://hermes.dio.me/certificates/2GXOWDRU.pdf)">
+<a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf">
      <img src="./src/img/github.png" width="85" alt="Logo Bootcamp GitHub Copilot"/> </a> &nbsp;
-<a href="[https://hermes.dio.me/certificates/7RBBD6ZR.pdf](https://hermes.dio.me/certificates/7RBBD6ZR.pdf)">
+<a href="https://hermes.dio.me/certificates/7RBBD6ZR.pdf">
      <img src="./src/img/ia-dados.png" width="80" alt="Logo Bootcamp IA Dados"/> </a> &nbsp;
-<a href="[https://hermes.dio.me/certificates/VCUHQUFT.pdf](https://hermes.dio.me/certificates/VCUHQUFT.pdf)">
+<a href="https://hermes.dio.me/certificates/VCUHQUFT.pdf">
      <img src="https://github.com/user-attachments/assets/1f7c8879-41cf-4d13-97f1-1b5746740a74" width="80" alt="Logo Bootcamp Microsoft Copilot Studio"/> </a> 
-<a href="[https://hermes.dio.me/certificates/YENUHHEQ.pdf](https://hermes.dio.me/certificates/YENUHHEQ.pdf)">
+<a href="https://hermes.dio.me/certificates/YENUHHEQ.pdf">
      <img src="https://github.com/user-attachments/assets/2bac7d23-fc2d-417b-a9cf-27ab3fe81f75" width="100" alt="Logo Bootcamp Azure Databricks"/> </a>
-<a href="[https://hermes.dio.me/certificates/F0QN1LMW.pdf](https://hermes.dio.me/certificates/F0QN1LMW.pdf)">
+<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf">
      <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot"/> </a>
 </div>
 
