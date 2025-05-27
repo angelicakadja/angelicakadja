@@ -64,8 +64,13 @@
 <a href="[https://hermes.dio.me/certificates/YENUHHEQ.pdf](https://hermes.dio.me/certificates/YENUHHEQ.pdf)" target="_blank">
      <img src="https://github.com/user-attachments/assets/2bac7d23-fc2d-417b-a9cf-27ab3fe81f75" width="100" alt="Logo Bootcamp Azure Databricks" /> </a>
 <a href="[https://hermes.dio.me/certificates/F0QN1LMW.pdf](https://hermes.dio.me/certificates/F0QN1LMW.pdf)" target="_blank">
-     <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/> </a>
+     <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot"/> </a>
 </div>
+
+<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" alt="Bootcamp Microsoft Copilot"/> </a>
+
+
 
 [//]: # "  criar espaço extra entre as imagens"
             
