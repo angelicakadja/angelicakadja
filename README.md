@@ -41,12 +41,13 @@
 <h2 align="left"> - 🎓 Bootcamps em formação: </h2>
 </sub>
 
-- [x] 
-      <a href="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" target="_blank">
-                <img src="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" width="100" alt="Santander - Excel com Inteligência Artificial" /> </a>
-      <a href="[https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5](https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5)" target="_blank">
-                <img src="https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5" width="100" alt="Santander - Excel com Inteligência Artificial" /> </a>
-              
+<div display: inline-block;> 
+<a href="[https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8](https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8)" target="_blank">
+     <img src="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" width="90" alt="Santander - Excel com Inteligência Artificial" /> </a> &nbsp;     
+<a href="[https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5](https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5)" target="_blank">
+     <img src="https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5" width="85" alt="Santander - Excel com Inteligência Artificial" /> </a>
+</div>
+
 <sub>
 <h2 align="left"> - 🚀 Bootcamps Realizados - 'Clique nos escudos abaixo para verificar as credenciais': </h2>
 </sub>
@@ -65,15 +66,6 @@
 <a href="[https://hermes.dio.me/certificates/F0QN1LMW.pdf](https://hermes.dio.me/certificates/F0QN1LMW.pdf)" target="_blank">
      <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/> </a>
 </div>
-
-
-<sub>
-<h2 align="left"> - ❌ Bootcamps não terminados: </h2>
-</sub>
-
-[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path] "https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024")
-[<img src="./src/img/java-ia.png" width="100" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
-[<img src="./src/img/python.png" width="70" target="_blank">](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4)
 
 [//]: # "  criar espaço extra entre as imagens"
             
