@@ -68,7 +68,7 @@
 </div>
 
 <div>
-<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">
+<a href="[https://hermes.dio.me/certificates/D50WLGPK.pdf](https://hermes.dio.me/certificates/D50WLGPK.pdf)" target="_blank">
 <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="500"/> </a>
 </div>
 
