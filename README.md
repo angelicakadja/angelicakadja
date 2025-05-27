@@ -67,9 +67,10 @@
      <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot"/> </a>
 </div>
 
-
-[![Markdown Logo](https://markdown-here.com/img/icon256.png)](https://www.markdownguide.org)
-<div display: inline-block; width="90" target="_blank">
+<div>
+<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">
+<img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="500"/> </a>
+</div>
 
 
 [//]: # "  criar espaço extra entre as imagens"
