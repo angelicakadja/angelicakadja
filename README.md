@@ -38,41 +38,47 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/adm-angelicakadja)
 
 <sub>
-<h2 align="left"> - 🚀 Bootcamps Realizados: </h2>
+<h2 align="left"> - 🎓 Bootcamps em formação: </h2>
+</sub>
+
+- [x] <a href="https://github.com/user-attachments/assets/f24da018-613e-4adb-b12f-9a4c3a09c56d" target="_blank">
+                <img src="https://github.com/user-attachments/assets/f24da018-613e-4adb-b12f-9a4c3a09c56d" width="80" alt="Logo Bootcamp Azure Databricks" /> </a>
+      <a href="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" target="_blank">
+                <img src="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" width="80" alt="Santander - Excel com Inteligência Artificial" /> </a>
+      <a href="[https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5](https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5)" target="_blank">
+                <img src="https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5" width="80" alt="Santander - Excel com Inteligência Artificial" /> </a>
+              
+<sub>
+<h2 align="left"> - 🚀 Bootcamps Realizados - 'Clique nos escudos abaixo para verificar as credenciais': </h2>
 </sub>
 
 <a href="https://hermes.dio.me/certificates/D50WLGPK.pdf" onclick="window.open(this.href, '_blank'); return false;">
   <img src="./src/img/front-end.png" width="70" alt="Logo Bootcamp Front-End" target="_blank"/>
-</a> <a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf" target="_blank">
+</a>
+<a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf" target="_blank">
   <img src="./src/img/github.png" width="70" alt="Logo Bootcamp GitHub Copilot" target="_blank"/>
-</a> <a href="https://hermes.dio.me/certificates/7RBBD6ZR.pdf" target="_blank">
+</a>
+<a href="https://hermes.dio.me/certificates/7RBBD6ZR.pdf" >
   <img src="./src/img/ia-dados.png" width="70" alt="Logo Bootcamp IA Dados" target="_blank"/>
-</a> <a href="https://hermes.dio.me/certificates/VCUHQUFT.pdf" target="_blank">
+</a>
+<a href="https://hermes.dio.me/certificates/VCUHQUFT.pdf" target="_blank">
   <img src="./src/img/microsoft-copilot.png" width="80" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/>
-</a> <a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">
+</a>
+<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf" target="_blank">
   <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="75" alt="Logo Bootcamp Microsoft Copilot" target="_blank"/>
 </a>
 
 
-[<img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="70" target="_blank">]([https://hermes.dio.me/certificates/F0QN1LMW.pdf] "https://hermes.dio.me/certificates/F0QN1LMW.pdf")
-
+<sub>
+<h2 align="left"> - ❌ Bootcamps não terminados: </h2>
+</sub>
 
 [<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" width="70" target="_blank">]([https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path] "https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024")
 [<img src="./src/img/java-ia.png" width="70" target="_blank">](https://app.santanderopenacademy.com/pt-BR/program/santander-coders-2024)
 [<img src="./src/img/python.png" width="70" target="_blank">](https://github.com/user-attachments/assets/6874578d-5b9e-4d70-9590-62259cdb7db4)
 
 [//]: # "  criar espaço extra entre as imagens"
-
-<sub>
-<h2 align="left"> - 🎓 Bootcamp em formação: </h2>
-</sub>
-
-- [x] <a href="https://github.com/user-attachments/assets/f24da018-613e-4adb-b12f-9a4c3a09c56d" target="_blank">
-                <img src="https://github.com/user-attachments/assets/f24da018-613e-4adb-b12f-9a4c3a09c56d" width="80" alt="Logo Bootcamp Azure Databricks" />
-              </a> <a href="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" target="_blank">
-                <img src="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" width="80" alt="Santander - Excel com Inteligência Artificial" />
-              </a>
-              
+            
 <sub>
 <h2 align="left"> - ⚡ Linguagens de Marcação e Estilo: </h2>
 </sub>
