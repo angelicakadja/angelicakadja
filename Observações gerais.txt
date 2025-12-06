@@ -1,0 +1,109 @@
+<!--
+OBSERVAÇÕES BÁSICAS E GERAIS:
+
+Troféu com borda:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ak&rank=A,B,C,S,SS&theme=gruvbox)](https://github.com/angelicakadja)
+
+&nbsp;
+Cria espaço extra entre imagens, trechos de códigos e de textos.
+
+Algumas Badges e suas formatações:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-035?style=for-the-badge&logo=postgresql)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/refs/heads/main/src/Microsoft-Copilot-Logo.png" width="28" />
+  <strong>Microsoft Copilot</strong>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/Microsoft-Copilot-Logo.png" width="28" style="vertical-align: middle;" />
+  <strong style="vertical-align: middle;">Microsoft Copilot</strong>
+</p>
+<span style="vertical-align:middle;">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" style="vertical-align:middle;" /> <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/Microsoft-Copilot-Logo.png"
+       width="26"
+       style="vertical-align:middle; margin-left:6px;" /><span style="font-weight:bold; vertical-align:middle;">Microsoft Copilot</span>
+</span>
+
+
+-->
+
+<!--
+Não funciona mais, testado em 30/11, principais linguagens e estatística com o logo do GitHub sem mostrar ranking A, B ou C:
+<div align="center">
+  GitHub Stats Card
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=angelicakadja&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058" />
+
+  GitHub Top Language Card
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicakadja&layout=compact&theme=radical&border_color=2e4058" />
+
+</div>
+
+Nem funciona nesse formato:
+<table cellpadding="0" align=center>
+  <tr style="padding: 0">
+    GitHub Stats Card
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=angelicakadja&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058"/></td>
+    GitHub Top Language Card
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicakadja&layout=compact&theme=radical&border_color=2e4058"/></td>
+  </tr>
+</table>
+-->
+
+<!--Tag de troféu:
+<div align="center" height="1000">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ak&rank=A,B,C,S,SS&theme=onedark&no-frame=true)](https://github.com/angelicakadja)
+
+</div>-->
+
+<!--GitHub estatísticas - Opção in-line:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelicakadja&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelicakadja&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens" />
+</p>
+-->
+
+<!-- Cards Streak e Linguagens
+<div align="center">
+
+| GitHub Streak | Linguagens |
+|:-------------:|:----------:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelicakadja&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelicakadja&layout=compact&langs_count=8&theme=tokyonight) | theme=radical, também é legal-->
+
+Mensagem antiga de Olá:
+![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=920&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!>)
+Parâmetros da URL:
+- font=Cascadia+Code → Define a fonte usada (Cascadia Code).
+- size=30 → Tamanho da fonte (30px).
+- pause=100 → Tempo de pausa entre cada linha ou repetição (em milissegundos).
+- color=267A76 → Cor do texto em hexadecimal (#267A76 → verde-azulado).
+- background=33FF3100 → Cor de fundo em hexadecimal com transparência (os últimos dois dígitos 00 indicam transparência).
+- center=true → Centraliza o texto dentro da área do SVG.
+- vCenter=true → Centraliza verticalmente o texto.
+- lines=Olá!+Bem-vindo(a)+ao+meu+GitHub! → Texto que será animado.
+- O + substitui espaços.
+
+📏 O que significa na prática
+- 920px é bem largo — ocupa praticamente toda a largura de um README no GitHub em telas comuns de desktop.
+Se você abrir em monitores menores ou no celular, pode parecer grande demais, e o texto pode não ficar proporcional.
+- Normalmente, valores entre 600 e 700px já são suficientes para centralizar bem e deixar o texto legível sem ocupar toda a tela.
+
+🔹 Recomendações
+- Se você quer um título chamativo e ocupar bastante espaço: 920px funciona.
+- Se prefere algo mais compacto e equilibrado: teste com width=700 ou width=600.
+- Se quer responsividade melhor em telas menores: 500–600px costuma ser o ideal.
+
+### Comparação de larguras do Typing SVG
+| 600px | 700px | 920px |
+|:-----:|:-----:|:-----:|
+| <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=600&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG 600px" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=700&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG 700px" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=920&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG 920px" /> |
+
+
+
+
+
+
+
+
+

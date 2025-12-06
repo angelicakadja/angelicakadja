@@ -1,34 +1,45 @@
-<h1>
-     <img align="center" alt="Logo Flaticon" width="36px" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/b8cfbaa8-3265-4181-986c-5517962ed5af"></a>
-    <span>Olá, sou a Angélica Kadja!</span>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=600&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
+</div>
 
+<h2>
+     <img src="../angelicakadja/src/GitHub-heart.png" width="36" alt="Logo Bootcamp Ciência de Dados"/>
+    <span>Prazer, sou a Angélica Kadja!</span>
+        <!--<img align="center" alt="Logo Flaticon" width="36px" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/b8cfbaa8-3265-4181-986c-5517962ed5af">-->
   <picture>
   <img align="right" media="(prefers-color-scheme: dark)" height="400" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/71272830-29b9-4f3a-9958-d0c2fc88a799">
 </picture>
 
-</h1>
+</h2>
 
 <h4 align="justify">
   
-- 🎓 Tenho formação superior completa em Administração de Empresas pela UFRRJ (Univ. Fed. Rural do Rio de Janeiro).
-- ☛ Analista Financeira com mais de 12 anos de expertise em empresas de _Tecnologia, Varejo, Construção Civil, Imobiliário e Serviços_.
-- ❤️ Apaixonada por animais, cinema e tecnologia. </h4>
-</sub>
+🎓 <strong><span style="color:#8e44ad">Formação Acadêmica</span>:</strong> </br>
+Graduada em Administração de Empresas pela UFRRJ (Universidade Federal Rural do Rio de Janeiro).
 
-<h4 align="justify">
+💼 <strong><span style="color:#2e86c1">Experiência Profissional</span>:</strong> </br>
+Analista Financeira com mais de 12 anos de atuação em empresas dos setores de <b>Tecnologia, Varejo, Construção Civil, Imobiliário e Serviços</b>, desenvolvendo sólida expertise em gestão financeira e processos corporativos.
 
-- 👩🏽‍💻 Começando o estudo na área de TI pelo Bootcamp Backend com Java.
-- ✔ Minhas principais soft skills são: _observadora e organizada_. </h4>
-  </sub>
+👩🏽‍💻 <strong><span style="color:#2e86c1">Transição de Carreira</span>:</strong> </br>
+Atualmente em transição para a área de Dados, aprofundando conhecimentos em Python, SQL, NoSQL e R.
 
-<h4 align="justify">
+💥<strong><span style="color:#2e86c1">Tecnologia e Processos</span>:</strong> </br>
+Minha paixão pela tecnologia surgiu ao analisar métodos de desenvolvimento de atividades e buscar melhorias contínuas em processos. Tornei-me especialista em Melhoria de Processos e Automação de Atividades, aplicando soluções inovadoras em diferentes setores.
 
-- 💥A centelha pela área de tecnologia aconteceu quando comecei a analisar métodos de desenvolvimento de atividades e melhoria de processos. Me tornei Expert em Melhoria de Processos e automatização de atividades de diversos tipos de setores.
-- 🧠 Anseio aprender mais e algo diferente todos os dias.
-- 🌐 Atualmente com enfase nas linguagens HTML5, CSS3 e JavaScript . </h4>
-  </sub>
+🧠 <strong><span style="color:#2e86c1">Aprendizado Contínuo</span>:</strong> </br>
+Motivada pelo desejo de aprender algo novo todos os dias e expandir horizontes.
 
----
+🌐 <strong><span style="color:#2e86c1">Conhecimentos Complementares</span>:</strong> </br>
+Em fase de estudos de HTML5, CSS3 e JavaScript, ampliando minha visão sobre desenvolvimento web e integração tecnológica, buscando aplicar esses conhecimentos em projetos práticos e expandindo minha base técnica.
+
+✔ <strong><span style="color:#2e86c1">Soft Skills</span>:</strong> </br>
+Reconhecida por ser observadora e organizada, características que impulsionam minha capacidade analítica e atenção aos detalhes.
+
+❤️ <strong><span style="color:#e67e22">Interesses Pessoais</span>:</strong> </br>
+Apaixonada por animais, cinema e tecnologia.
+
+<h4 align="center">✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦</h4>
+</br>
 
 <sub>
 <h2 align="left"> - 🔗 Conecte-se comigo em: </h2>
@@ -41,34 +52,59 @@
 <h2 align="left"> - 🎓 Bootcamps em formação: </h2>
 </sub>
 
-<div display: inline-block;> 
-<a href="[https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8](https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8)" target="_blank">
-     <img src="https://github.com/user-attachments/assets/17baab3e-8e44-4500-b61e-0c459e773fb8" width="90" alt="Santander - Excel com Inteligência Artificial" /> </a> &nbsp;     
-<a href="[https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5](https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5)" target="_blank">
-     <img src="https://github.com/user-attachments/assets/518a825c-e5e0-47fd-9af5-6ecbd1182bf5" width="85" alt="Santander - Excel com Inteligência Artificial" /> </a>
+<div display: inline-block;>
+<img src="./src/img/ciencia-de-dados.png" width="95" alt="Logo Bootcamp Ciência de Dados"/>&nbsp;&nbsp;&nbsp;
+<img src="./src/img/analise-de-dados-grafos.png" width="85" alt="Logo Bootcamp Análise de Dados com Grafos"/>
 </div>
 
 <sub>
-<h2 align="left"> - 🚀 Bootcamps Realizados - 'Clique nos escudos abaixo para verificar as credenciais': </h2>
+<h2 align="left">
+  - 🚀 Bootcamps Realizados -
+  <small><em>'Clique nos escudos abaixo para verificar as credenciais'</em></small>:
+</h2>
 </sub>
 
-<div display: inline-block; target="_blank"> 
-<a href="https://hermes.dio.me/certificates/D50WLGPK.pdf">
-     <img src="./src/img/front-end.png" width="90" alt="Logo Bootcamp Front-End"/> </a> &nbsp;
-<a href="https://hermes.dio.me/certificates/2GXOWDRU.pdf">
-     <img src="./src/img/github.png" width="85" alt="Logo Bootcamp GitHub Copilot"/> </a> &nbsp;
-<a href="https://hermes.dio.me/certificates/7RBBD6ZR.pdf">
-     <img src="./src/img/ia-dados.png" width="80" alt="Logo Bootcamp IA Dados"/> </a> &nbsp;
-<a href="https://hermes.dio.me/certificates/VCUHQUFT.pdf">
-     <img src="https://github.com/user-attachments/assets/1f7c8879-41cf-4d13-97f1-1b5746740a74" width="80" alt="Logo Bootcamp Microsoft Copilot Studio"/> </a> 
-<a href="https://hermes.dio.me/certificates/YENUHHEQ.pdf">
-     <img src="https://github.com/user-attachments/assets/2bac7d23-fc2d-417b-a9cf-27ab3fe81f75" width="100" alt="Logo Bootcamp Azure Databricks"/> </a>
-<a href="https://hermes.dio.me/certificates/F0QN1LMW.pdf">
-     <img src="https://github.com/user-attachments/assets/9d4f70aa-65d6-42e3-8489-3f3a7d4e5c95" width="90" alt="Logo Bootcamp Microsoft Copilot"/> </a>
+<div display: inline-block; target="_blank">
+<a href="../angelicakadja/src/arquivos/D50WLGPK-front-end-do-zero.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/front-end.png" width="95" alt="Logo Bootcamp Front-End"/> </a> &nbsp;
+<a href="../angelicakadja/src/arquivos/2GXOWDRU-github-copilot.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/github.png" width="95" alt="Logo Bootcamp GitHub Copilot"/> </a> &nbsp;&nbsp;
+<a href="../angelicakadja/src/arquivos/7RBBD6ZR-ia-aplicada-a-dados.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/ia-dados.png" width="80" alt="Logo Bootcamp IA Dados"/> </a> &nbsp;
+<a href="../angelicakadja/src/arquivos/VCUHQUFT-copilot-studio.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/microsoft-copilot.png" width="95" alt="Logo Bootcamp Copilot Studio"/> </a>
+<a href="../angelicakadja/src/arquivos/YENUHHEQ-azure-databricks.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/azure-databricks.png" width="100" alt="Logo Bootcamp Azure Databricks"/> </a> &nbsp;
+<a href="../angelicakadja/src/arquivos/F0QN1LMW-gitbub-copilot.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/GitHub-Copilot.png" width="90" alt="Logo Bootcamp GitHub Copilot"/> </a> &nbsp;
+<a href="../angelicakadja/src/arquivos/63H98PXE-excel-com-ia.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/excel-com-ia.png" width="100" alt="Logo Bootcamp Excel com IA"/> </a> &nbsp;
+<a href="../angelicakadja/src/arquivos/NHKKIXN0-prompts-inteligentes.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="./src/img/prompts-inteligentes.png" width="90" alt="Logo Bootcamp Prompts Inteligentes"/> </a> &nbsp;
 </div>
 
-[//]: # "  criar espaço extra entre as imagens"
-            
+<sub>
+<h2 align="left"> - 🤖 Artificial Intelligence: </h2>
+</sub>
+
+<span style="vertical-align:middle;">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" style="vertical-align:middle;" /> <span style="
+    background:#1D6978;
+    padding:3px 8px;
+    border-radius:2px;
+    display:inline-block;
+    vertical-align:middle;
+    line-height:20px;
+  ">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/Microsoft-Copilot-Logo.png"
+         width="20"
+         style="vertical-align:middle; margin-right:4px;" />
+    <span style="font-weight:bold; font-size:12px; vertical-align:middle;color:white;">Microsoft Copilot</span>
+  </span>
+</span>
+
 <sub>
 <h2 align="left"> - ⚡ Linguagens de Marcação e Estilo: </h2>
 </sub>
@@ -89,8 +125,10 @@
 <h2 align="left"> - ⚡ Banco de Dados: </h2>
 </sub>
 
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-06688F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-035?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <sub>
 <h2 align="left"> - 🚀 Habilidades: </h2>
@@ -100,6 +138,7 @@
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ANDROID](https://img.shields.io/badge/Android-1793D1?style=for-the-badge&logo=android&logoColor=white)
 
 > #### 🛠️ Ferramentas
 
@@ -109,7 +148,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
-> #### Office
+> #### 🗃️ Office
 
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -117,22 +156,46 @@
 ![WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
+> #### 📂 Cloud Storage
+
+![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+
 ---
 
-<table cellpadding="0" align=center>
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=angelicakadja&rank_icon=github&show_icons=true&theme=radical&border_color=2e4058"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicakadja&layout=compact&theme=radical&border_color=2e4058"/></td>
-  </tr>
-</table>
+</div>
+
+<div align="center">
+</div>
+
+|                                                                             GitHub Streak                                                                              |                                                                                                             Linguagens                                                                                                             |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelicakadja&theme=radical" alt="GitHub Streak" style="border:1px solid gray; border-radius:8px;" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelicakadja&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens" style="border:1px solid gray; border-radius:8px;" /> |
+
+---
+
+<div align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/angelicakadja">
+    <img src="https://github-profile-trophy.vercel.app/?username=ak&rank=A,B,C,S,SS&theme=onedark&no-frame=true" height="100" />
+  </a>
+</div>
+
+---
+
+</br>
+
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=angelicakadja&theme=react-dark)
+
+---
 
 <div align=center>
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
 
 </div>
+</br>
 
 <div align=center>
 __________________________________________________________________________________________________________________
