@@ -25,6 +25,9 @@ Algumas Badges e suas formatações:
        style="vertical-align:middle; margin-left:6px;" /><span style="font-weight:bold; vertical-align:middle;">Microsoft Copilot</span>
 </span>
 
+Imagem redonda que ficava ao lado do nome:
+<!--<img align="center" alt="Logo Flaticon" width="36px" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/b8cfbaa8-3265-4181-986c-5517962ed5af">-->
+
 
 -->
 

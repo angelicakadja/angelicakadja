@@ -3,13 +3,13 @@
 </div>
 
 <h2>
-     <img src="../angelicakadja/src/GitHub-heart.png" width="36" alt="Logo Bootcamp Ciência de Dados"/>
-    <span>Prazer, sou a Angélica Kadja!</span>
-        <!--<img align="center" alt="Logo Flaticon" width="36px" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/b8cfbaa8-3265-4181-986c-5517962ed5af">-->
-  <picture>
-  <img align="right" media="(prefers-color-scheme: dark)" height="400" src="https://github.com/angelicakadja/angelicakadja/assets/156589643/71272830-29b9-4f3a-9958-d0c2fc88a799">
-</picture>
+  <img src="src/GitHub-heart.png" width="36" alt="Logo Gatinho GitHub coração rosa"/>
+  <span>Prazer, sou a Angélica Kadja!</span>
 
+  <picture>
+    <img align="right" media="(prefers-color-scheme: dark)" height="400"
+         src="https://github.com/angelicakadja/angelicakadja/assets/156589643/71272830-29b9-4f3a-9958-d0c2fc88a799">
+  </picture>
 </h2>
 
 <h4 align="justify">
@@ -187,6 +187,13 @@ Apaixonada por animais, cinema e tecnologia.
 </br>
 
 ![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=angelicakadja&theme=react-dark)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelicakadja/angelicakadja/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
