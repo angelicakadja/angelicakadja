@@ -40,6 +40,9 @@ Não funciona mais, testado em 30/11, principais linguagens e estatística com o
   GitHub Top Language Card
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicakadja&layout=compact&theme=radical&border_color=2e4058" />
 
+  GitHub Contribuições
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelicakadja&theme=radical" alt="GitHub Streak" style="border:1px solid gray; border-radius:8px;" />
+
 </div>
 
 Nem funciona nesse formato:
@@ -74,6 +77,13 @@ Nem funciona nesse formato:
 |:-------------:|:----------:|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelicakadja&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelicakadja&layout=compact&langs_count=8&theme=tokyonight) | theme=radical, também é legal-->
 
+<!-- Card de linguagens:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelicakadja&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens" style="border:1px solid gray; border-radius:8px;" />
+
+<!-- Card Streak: Tema github_dark também é legal para Streak
+<img src="https://github-readme-stats.vercel.app/api?username=angelicakadja&show_icons=true&theme=radical" />
+-->
+
 Mensagem antiga de Olá:
 ![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=920&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!>)
 Parâmetros da URL:
@@ -101,9 +111,6 @@ Se você abrir em monitores menores ou no celular, pode parecer grande demais, e
 | 600px | 700px | 920px |
 |:-----:|:-----:|:-----:|
 | <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=600&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG 600px" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=700&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG 700px" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&pause=100&color=267A76&background=33FF3100&center=true&vCenter=true&width=920&lines=Olá!+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG 920px" /> |
-
-
-
 
 
 
