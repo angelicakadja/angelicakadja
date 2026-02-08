@@ -65,24 +65,24 @@ Apaixonada por animais, cinema e tecnologia.
 </sub>
 
 <div display: inline-block; target="_blank">
-<a href="../angelicakadja/src/arquivos/D50WLGPK-front-end-do-zero.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/front-end.png" width="95" alt="Logo Bootcamp Front-End"/> </a> &nbsp;
-<a href="../angelicakadja/src/arquivos/2GXOWDRU-github-copilot.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/github.png" width="95" alt="Logo Bootcamp GitHub Copilot"/> </a> &nbsp;&nbsp;
-<a href="../angelicakadja/src/arquivos/7RBBD6ZR-ia-aplicada-a-dados.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/ia-dados.png" width="80" alt="Logo Bootcamp IA Dados"/> </a> &nbsp;
-<a href="../angelicakadja/src/arquivos/VCUHQUFT-copilot-studio.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/microsoft-copilot.png" width="95" alt="Logo Bootcamp Copilot Studio"/> </a>
-<a href="../angelicakadja/src/arquivos/YENUHHEQ-azure-databricks.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/azure-databricks.png" width="100" alt="Logo Bootcamp Azure Databricks"/> </a> &nbsp;
-<a href="../angelicakadja/src/arquivos/F0QN1LMW-gitbub-copilot.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/GitHub-Copilot.png" width="90" alt="Logo Bootcamp GitHub Copilot"/> </a> &nbsp;
-<a href="../angelicakadja/src/arquivos/63H98PXE-excel-com-ia.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/excel-com-ia.png" width="100" alt="Logo Bootcamp Excel com IA"/> </a> &nbsp;
-<a href="../angelicakadja/src/arquivos/NHKKIXN0-prompts-inteligentes.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/prompts-inteligentes.png" width="90" alt="Logo Bootcamp Prompts Inteligentes"/> </a> &nbsp;
-<a href="../angelicakadja/src/arquivos/CXMVQCYC-ciencia-de-dados-com-Python.png" target="_blank" rel="noopener noreferrer">
-    <img src="./src/img/ciencia-de-dados.png" width="100" alt="Logo Bootcamp Ciência de Dados"/> </a> &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/D50WLGPK-front-end-do-zero.png">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/front-end.png" width="95" alt="Logo Bootcamp Front-End"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/2GXOWDRU-github-copilot.png">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/github.png" width="95" alt="Logo Bootcamp GitHub Copilot"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/7RBBD6ZR-ia-aplicada-a-dados.png">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/ia-dados.png" width="80" alt="Logo Bootcamp IA Dados"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/VCUHQUFT-copilot-studio.png">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/microsoft-copilot.png" width="95" alt="Logo Bootcamp Copilot Studio"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/YENUHHEQ-azure-databricks.png">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/azure-databricks.png" width="100" alt="Logo Bootcamp Azure Databricks"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/F0QN1LMW-gitbub-copilot.png">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/GitHub-Copilot.png" width="90" alt="Logo Bootcamp GitHub Copilot"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/63H98PXE-excel-com-ia.png">
+    <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/excel-com-ia.png" width="100" alt="Logo Bootcamp Excel com IA"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/NHKKIXN0-prompts-inteligentes.png">
+  <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/prompts-inteligentes.png" width="90" alt="Logo Bootcamp Prompts Inteligentes"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/CXMVQCYC-ciencia-de-dados-com-Python.png">
+  <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/ciencia-de-dados.png" width="100" alt="Logo Bootcamp Ciência de Dados"/> </a>  &nbsp;
 </div>
 
 <sub>
@@ -170,19 +170,20 @@ Apaixonada por animais, cinema e tecnologia.
 </div>
 
 <div align="center">
-</div>
 
 |                                                                             GitHub Streak                                                                              |                                                                                                             Linguagens                                                                                                             |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelicakadja&theme=radical" alt="GitHub Streak" style="border:1px solid gray; border-radius:8px;" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelicakadja&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens" style="border:1px solid gray; border-radius:8px;" /> |
 
+</div>
+
 ---
 
-<div align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
   <a href="https://github.com/angelicakadja">
     <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=angelicakadja&rank=A,B,C,S,SS&theme=onedark&no-frame=true" height="100" />
   </a>
-</div>
+</p>
 
 ---
 
