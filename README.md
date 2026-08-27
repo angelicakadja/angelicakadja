@@ -54,7 +54,11 @@ Apaixonada por animais, cinema e tecnologia.
 
 <div display: inline-block;>
 <!--<img src="./src/img/ciencia-de-dados.png" width="95" alt="Logo Bootcamp Ciência de Dados"/>&nbsp;&nbsp;&nbsp;-->
-<img src="./src/img/analise-de-dados-grafos.png" width="85" alt="Logo Bootcamp Análise de Dados com Grafos"/>
+<img src="./src/img/GenAI-Dados-& Cyber.png" width="90" alt="Logo Bootcamp Bradesco - GenAI, Dados & Cyber"/>
+<img src="./src/img/automação-com N8N.png" width="85" alt="Logo Bootcamp Automação com N8N"/>
+<img src="./src/img/Excel-IA-Cloud.png" width="85" alt="Logo Bootcamp Excel com Claude"/>
+<img src="./src/img/RAG-com-ChromaDB-LlamaIndex-e-Python.png" width="80" alt="Logo Bootcamp RAG com ChromaDB, Llama e Python"/>
+
 </div>
 
 <sub>
@@ -83,6 +87,9 @@ Apaixonada por animais, cinema e tecnologia.
   <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/prompts-inteligentes.png" width="90" alt="Logo Bootcamp Prompts Inteligentes"/> </a>  &nbsp;
 <a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/CXMVQCYC-ciencia-de-dados-com-Python.png">
   <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/ciencia-de-dados.png" width="100" alt="Logo Bootcamp Ciência de Dados"/> </a>  &nbsp;
+<a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/FXMMWPDL-fundamentos-ia-generativa.png">
+  <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/fundamentos-ia-generativa.png" width="100" alt="Logo Bootcamp Fundamentos de IA Generativa"/> </a>  &nbsp;
+  
 </div>
 
 <sub>
