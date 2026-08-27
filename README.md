@@ -88,7 +88,7 @@ Apaixonada por animais, cinema e tecnologia.
 <a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/CXMVQCYC-ciencia-de-dados-com-Python.png">
   <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/ciencia-de-dados.png" width="100" alt="Logo Bootcamp Ciência de Dados"/> </a>  &nbsp;
 <a href="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/arquivos/FXMMWPDL-fundamentos-ia-generativa.png">
-  <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/fundamentos-ia-generativa.png" width="100" alt="Logo Bootcamp Fundamentos de IA Generativa"/> </a>  &nbsp;
+  <img src="https://raw.githubusercontent.com/angelicakadja/angelicakadja/main/src/img/Fundamentos-ia-generativa.png" width="100" alt="Logo Bootcamp Fundamentos de IA Generativa"/> </a>  &nbsp;
   
 </div>
 
